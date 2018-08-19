@@ -9,7 +9,8 @@ html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address
 */
 
 body {
-	font-family: Georgia, serif;
+	@import url('https://fonts.googleapis.com/css?family=Alegreya:400,700');
+	font-family: 'Alegreya', serif;
 	text-transform: uppercase;
 	height: 100%;
 	background-color: ivory;
